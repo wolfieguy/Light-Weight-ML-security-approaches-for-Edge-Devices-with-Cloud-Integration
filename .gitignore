@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+
+# Environment variable files
+.env
+
+# Logs
+*.log
+
+# Joblib model files
+*.pkl
